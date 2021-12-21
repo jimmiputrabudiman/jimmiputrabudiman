@@ -1,5 +1,0 @@
-task week1
-- week1 git intro
-- week1 git fundamental
-- week1 git branch
-- week1 git Gui
