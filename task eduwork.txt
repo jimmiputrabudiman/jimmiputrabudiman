@@ -1,0 +1,4 @@
+task week1 git
+- task week1 intro
+- task week1 git
+- task week1 fundamental
