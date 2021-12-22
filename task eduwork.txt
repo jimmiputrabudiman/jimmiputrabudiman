@@ -7,8 +7,8 @@ task week1 git
   * 3
 - task week1 fundamental
  * 1
-   ^ a
-   ^ b
+   ^ ab
+   ^ bc
   * 2
   * 3
 - task week1 branch
