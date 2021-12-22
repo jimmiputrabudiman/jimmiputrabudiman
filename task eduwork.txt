@@ -1,6 +1,8 @@
 task week1 git
 - task week1 intro
   * 1
+   ^ a
+   ^ b
   * 2
   * 3
 - task week1 fundamental
