@@ -1,8 +1,12 @@
 task week1 git
 - task week1 intro
   * 1
+   ^ abc
+   ^ abc
   * 2
   * 3
 - task week1 fundamental
+ * 1a
+ * 2
 - task week1 branch
 - task week1 gui
